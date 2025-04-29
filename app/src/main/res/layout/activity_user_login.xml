@@ -64,9 +64,10 @@
         android:layout_marginTop="16dp" />
     <TextView
         android:layout_marginTop="10dp"
+        android:id="@+id/btnsignup"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="dont have a account? signup"
+        android:text="Don't have a account? Signup"
         />
 
 </LinearLayout>
